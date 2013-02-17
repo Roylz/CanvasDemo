@@ -1,0 +1,18 @@
+== CanvasDemo
+This is a demo for K's canvas idea.
+
+== Goals:
+
+1. Create a Canvas on the page
+
+2. To be able to add/remove/edit shapes inside the canvas
+
+3. To be able to save the canvas into the database
+
+4. To be able to retrieve the canvas from the database, and continue to editing
+
+== Libraries
+
+* Raphealjs - a canvas javascript library
+* Backbonejs - Backbone!
+* Citier - Gem, allows inheritance across multiple tables

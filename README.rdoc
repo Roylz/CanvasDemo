@@ -13,6 +13,6 @@ This is a demo for K's canvas idea.
 
 == Libraries
 
-* Raphealjs - a canvas javascript library
-* Backbonejs - Backbone!
-* Citier - Gem, allows inheritance across multiple tables
+* Raphaeljs(http://raphaeljs.com/) - a canvas javascript library
+* Backbonejs(http://backbonejs.org/) - Backbone!
+* Citier(https://github.com/PeterHamilton/citier) - Gem, allows inheritance across multiple tables
